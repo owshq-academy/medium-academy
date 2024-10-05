@@ -1,0 +1,36 @@
+{
+  "type": "record",
+  "name": "UserEvent",
+  "namespace": "com.example",
+  "fields": [
+    {
+      "name": "id",
+      "type": "int"
+    },
+    {
+      "name": "name",
+      "type": "string"
+    },
+    {
+      "name": "age",
+      "type": "int"
+    },
+    {
+      "name": "created_at",
+      "type": "string",
+      "logicalType": "timestamp-millis"
+    },
+    {
+      "name": "event",
+      "type": "string"
+    },
+    {
+      "name": "amount",
+      "type": [
+        "null",
+        "double"
+      ],
+      "default": null
+    }
+  ]
+}

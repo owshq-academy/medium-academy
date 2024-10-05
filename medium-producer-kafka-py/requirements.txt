@@ -1,0 +1,16 @@
+python-dotenv==0.16.0
+pandas==2.2.2
+confluent-kafka==2.5.0
+fastavro
+avro-python3==1.10.2
+jsonschema==3.2.0
+Faker==27.0.0
+requests~=2.32.2
+loremipsum
+fastapi==0.112.1
+uvicorn==0.18.2
+pydantic[email]
+streamlit
+watchdog
+streamlit_option_menu
+
