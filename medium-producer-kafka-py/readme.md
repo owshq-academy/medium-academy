@@ -1,3 +1,9 @@
+# Producing Data into Apache Kafka using Python
+
+To install Apache kafka using Kubernetes 
+
+[Deployment](deployment/strimzi/readme.md)
+
 
 #### Reading using Kcat Json Topic
 ```shell
