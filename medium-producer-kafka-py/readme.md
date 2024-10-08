@@ -2,8 +2,10 @@
 
 To install Apache kafka using Kubernetes 
 
-[Deployment](deployment/strimzi/readme.md)
-
+* [Deployment](deployment/strimzi/readme.md)
+* [Docs](docs)
+* [Producer Json](src/simple_producer_json.py)
+* [Producer Avro](src/simple_producer_avro.py)
 
 #### Reading using Kcat Json Topic
 ```shell
